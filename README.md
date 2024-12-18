@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mingheng0223@gmail.com**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/liew-ming-heng-831972157/">LinkedIn - LIEW MING HENG</a></h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/liew-ming-heng-831972157/" target="_blank">LinkedIn - LIEW MING HENG</a></h3>
 <p align="left">
 </p>
 
